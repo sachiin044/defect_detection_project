@@ -2,7 +2,7 @@
 This project uses the Patch Core model for anomaly detection on the "grid" category dataset.
 
 ## Setup
-1. Clone the repository: `git clone <your-repo-url>`
+1. Clone the repository: `git clone https://github.com/sachiin044/defect_detection_project`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app: `streamlit run src/app.py`
 
