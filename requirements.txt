@@ -55,18 +55,18 @@ smmap==5.0.2
 streamlit==1.40.1
 sympy==1.13.3
 tbb==2022.2.0
-tcmlib==1.4.0
+# tcmlib==1.4.0
 tenacity==9.0.0
 threadpoolctl==3.5.0
 toml==0.10.2
-torch==2.4.1+cpu
-torchaudio==2.4.1+cpu
-torchvision==0.19.1+cpu
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
 tornado==6.4.2
 tqdm==4.67.1 #add progress bars (arabic word for progress)
 typing_extensions==4.12.2
 tzdata==2025.2
-umf==0.11.0
+# umf==0.11.0
 urllib3==2.2.3
 watchdog==4.0.2
 zipp==3.20.2
